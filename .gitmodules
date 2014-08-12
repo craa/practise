@@ -1,0 +1,3 @@
+[submodule "protected/extensions/weixin"]
+	path = protected/extensions/weixin
+	url = git@github.com:craa/weixin.git
